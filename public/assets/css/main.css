@@ -5031,7 +5031,7 @@ a img {
 }
 
 .user-projects img {
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
     border-radius: 5px
 }
